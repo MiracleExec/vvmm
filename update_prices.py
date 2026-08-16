@@ -8,9 +8,6 @@ DATABASE_FILE = "database.lua"
 CATEGORIES = [
     "https://supremevalues.com/mm2/godlies",
     "https://supremevalues.com/mm2/chromas",
-    "https://supremevalues.com/mm2/ancients",
-    "https://supremevalues.com/mm2/vintages",
-    "https://supremevalues.com/mm2/collectibles",
     "https://supremevalues.com/mm2/legendaries",
     "https://supremevalues.com/mm2/rares",
     "https://supremevalues.com/mm2/uncommons",
