@@ -1,4 +1,4 @@
-{
+return {
   "Alex": 4,
   "AmericaGun": 7,
   "Amerilaser": 22,
